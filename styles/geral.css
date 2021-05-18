@@ -1,0 +1,36 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: Harry Potter;
+    src: url('/fonts/HARRYP__.TTF');
+}
+
+.son {
+    width: 100vw;
+    height: 100vh;
+
+    background: linear-gradient(90deg, #165300 0%, #52C234 100%);
+}
+
+.luf {
+    width: 100vw;
+    height: 100vh;
+
+    background: linear-gradient(90deg, #FFD200 0%, #FFE674 100%);
+}
+.cor {
+    width: 100vw;
+    height: 100vh;
+
+    background: linear-gradient(90deg, #091E3A 0%, #3578D2 100%);
+}
+.gri {
+    width: 100vw;
+    height: 100vh;
+
+    background: linear-gradient(270deg, #DD2B25 0%, #9D1015 100%);
+}

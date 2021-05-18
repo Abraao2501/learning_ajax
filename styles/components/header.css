@@ -1,0 +1,32 @@
+header {
+    width: 100%;
+    height: 5rem;
+
+    background-color: rgba(255, 255, 255, 0.4);
+    border-bottom: 1px solid white;
+    backdrop-filter: blur(70px);
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+}
+
+header ul {
+    width: 50rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header ul li {
+    list-style-type: none;
+}
+header ul li p{
+    font-family: Harry Potter;
+    font-size: 2.6rem;
+
+    text-decoration: none;
+    color: white;
+}
